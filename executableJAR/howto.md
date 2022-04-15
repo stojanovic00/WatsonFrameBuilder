@@ -1,0 +1,2 @@
+- To run the program type: "java -jar watsonFrameBuilder.jar yourTimeInputFile"
+- Program will produce watsonFormated.sh which you can use to add your frames to watson
